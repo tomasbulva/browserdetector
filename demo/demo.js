@@ -1,1 +1,3 @@
-$('div').browser();
+$(function () {
+	$('div').browser();
+});
