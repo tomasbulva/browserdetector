@@ -5,6 +5,8 @@ div {
 	padding: 10px;
 	text-align: center;
 	border: 2px solid #999;
+	font-family: Arial, "san serif";
+	color: #000;
 }
 
 #chrome.Chrome,
@@ -18,4 +20,5 @@ div {
 #ie10.ie10,
 #ie11.ie11 {
 	background-color: #65b537;
+	color: #fff;
 }
