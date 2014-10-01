@@ -1,0 +1,21 @@
+div {
+	width:50px;
+	height:50px;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	border: 2px solid #999;
+}
+
+#chrome.chrome,
+#safari.safari,
+#firefox.firefox,
+#opera.opera,
+#ie6.ie6,
+#ie7.ie7,
+#ie8.ie8,
+#ie9.ie9,
+#ie10.ie10,
+#ie11.ie11 {
+	background-color: #65b537;
+}
